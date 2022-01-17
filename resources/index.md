@@ -33,7 +33,7 @@ Active Capture
 - The [Canape tool](https://github.com/ctxis/canape) as a generic network protocol man-in-the-middle testing, analyzing, and exploitation tool with a usable GUI.
 - [Canape Core](https://github.com/tyranid/CANAPE.Core/releases/) is a stripped-down fork of the original Canape code base, are designed for use from the command line.
 - [Mallory](https://github.com/intrepidusgroup/mallory/) is an extensible man-in-the-middle tool that acts as a network gateway, which
-makes the process of capturing, analyzing, and modifying traffic transparent to the application being tested. 
+makes the process of capturing, analyzing, and modifying traffic transparent to the application being tested.
 
 Network Connectivity
 ------------------------------------
@@ -112,7 +112,7 @@ Reverse Engineering
 - [IDA PRO](https://hex-rays.com/) is the best-known tool for reverse engineering executables
 - [Hoppper](https://www.hopperapp.com/) is the macOS and Linux  Disassembler.
 - [ILSpy](https://github.com/icsharpcode/ILSpy) is the open-source .NET assembly browser and decompiler.
-- [/NET Reflector](https://www.red-gate.com/products/dotnet-development/reflector/) is the original .NET decompiler.
+- [.NET Reflector](https://www.red-gate.com/products/dotnet-development/reflector/) is the original .NET decompiler.
 - [OllyDbg](http://www.ollydbg.de/) is a 32-bit assembler level analyzing debugger for Microsoft Windows.
 
 Open-Source Intelligence

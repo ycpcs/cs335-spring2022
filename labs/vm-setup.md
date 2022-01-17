@@ -23,7 +23,7 @@ Before installing the SEED VM, please do the following:
 The VM has been tested on Version `6.1.16`.
 
 - Download the zip file `SEED-Ubuntu20.04.zip` from the
-[SEED website](https://seedsecuritylabs.org/labsetup.html), unzip it,
+[Google Drive](https://drive.google.com/file/d/138fqx0F8bThLm9ka8cnuxmrD6irtz_4m/view?usp=sharing), unzip it,
 and you will get a `.vdi` file. This file contains the pre-built SEED
 Ubuntu 20.04 image. This document shows how to build a virtual machine
 using this image.
