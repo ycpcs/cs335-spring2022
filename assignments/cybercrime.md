@@ -48,6 +48,7 @@ The topic will be accompanied by a student led class discussion about the variou
 - Zero-day Exploits
 - Deepfake
 - Face and biometric recognition
+- The Great Firewall of China
 
 * Anonymous and activists often cross paths.
 

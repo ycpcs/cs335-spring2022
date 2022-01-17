@@ -8,7 +8,7 @@ Pennsylvania.
 
 Unless indicated otherwise, all materials are
 
-Copyright (c) 2021, Galin Zhelezov &lt;<gzhelezo@ycp.edu>&gt;
+Copyright (c) 2022, Galin Zhelezov &lt;<gzhelezo@ycp.edu>&gt;
 
 Unless indicated otherwise, all of the materials on this website
 are open source, and may be used, modified, and redistributed

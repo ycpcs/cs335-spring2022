@@ -36,7 +36,7 @@ Course Structure and Expectations
 ---------------------------------
 Class meetings will be primarily discussion of questions related to the topic and/or working on corresponding lab exercises which are designed to illustrate the concepts from the lecture notes. Thus you should come to each class meeting prepared to work on the lab with any questions on the material. A series of homework assignments that will consist of both written and programming parts and will be assigned at approximately 1-2 week intervals, to be completed individually.
 
-A special thank goes to Prof. Wenliang Du for his contributions on the [SEED security labs](https://seedsecuritylabs.org/labs.html) that will be adopted in our course projects.
+A special thank goes to Prof. Wenliang Du for his contributions on the [SEED security labs](https://seedsecuritylabs.org/Labs_20.04/) that will be adopted in our course projects.
 
 You will only get as much out of this elective course as you choose to put into it. Since we will be covering a significant amount of material in the course at a rapid pace, it is imperative that you keep up by participating in the class meetings. You must have completed the lab activities up to and including the one for the current class meeting in order to receive assistance on the current programming assignment. You will only get as much out of this elective course as you choose to put into it.
 
@@ -127,7 +127,7 @@ The intent is to provide an opportunity for the student to investigate today’s
 Posting and submission of assignments and labs
 -----------------
 
-Assignments and labs will be posted on the course web page,  [https://ycpcs.github.io/cs335-spring2022](<https://ycpcs.github.io/cs335-spring2022>). Assignments and labs will be submitted using the server <a href="https://cs.ycp.edu/marmoset/">https://cs.ycp.edu/marmoset/</a>. You will receive an email containing the username and password you will use for this server.</p>
+Assignments and labs will be posted on the course web page,  [https://ycpcs.github.io/cs335-spring2022](<https://ycpcs.github.io/cs335-spring2022>). Assignments and labs will be submitted using the server <a href="https://cs.ycp.edu/marmoset/">https://cs.ycp.edu/marmoset/</a>. You will receive an email containing the username and password you will use for this server.
 
 Quizzes
 -----------------
