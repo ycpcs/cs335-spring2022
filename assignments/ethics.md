@@ -31,7 +31,7 @@ Understand what the law prohibits — you don’t want to end up like:
 - [Russian FSB Officers](https://www.justice.gov/usao-ndca/pr/us-charges-russian-fsb-officers-and-their-criminal-conspirators-hacking-yahoo-and) charged for hacking Yahoo and user emails. All of Yahoo’s 3 billion accounts were impacted.
 - Hacker for hire [Karim Baratov](https://www.justice.gov/usao-ndca/pr/international-hacker-hire-who-conspired-and-aided-russian-fsb-officers-sentenced-five) gets 5 years in prison and $2.25 million restitution fees.
 
-Please review the college’s policy on [Acceptable Use](https://ltshelp.ycp.edu/policies) for guidelines concerning proper use of information technology.
+Please review Ken Thomson's [Review on Trusting Trust](files/Thompson_1984_ReflectionsonTrustingTrust.pdf) __and__ the college’s policy on [Acceptable Use](https://ltshelp.ycp.edu/policies) for guidelines concerning proper use of information technology.
 
 As a member of the College, you are required to abide by these policies.
 
