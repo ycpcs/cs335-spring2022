@@ -58,6 +58,7 @@ Cheat Sheets
 - ```id``` display the user and group ids of your current user.
 - ```groupadd attacker``` created a group named _attacker_.
 - ```useradd -c "John Doe" -m john``` creates an account names _john_ with a comment of _John Doe_.
+- ```passwd john``` will set the password for the user _john_
 - ```userdel john``` deletes the _john_ account.
   - ```rm -r /home/john``` will delete the home directory of the _john_ account
   - ```su``` temporarily become the superuser
