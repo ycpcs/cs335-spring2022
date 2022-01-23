@@ -11,10 +11,6 @@ title: VM Setup
 - User name: `seed`
 - Password: `dees`
 
-## Root Information of this VM
-- User name: `root`
-- Password: `seedubuntu`
-
 ## Preparation
 
 Before installing the SEED VM, please do the following:

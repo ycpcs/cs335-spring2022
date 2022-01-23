@@ -16,9 +16,6 @@ Lab Setup
   - Primary Account:
     - User ID: seed
     - Password: dees
-  - Root account:
-    - User ID: root
-    - Password: seedubuntu
 
 Manual
 -----------------------------------
