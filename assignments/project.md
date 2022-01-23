@@ -12,7 +12,7 @@ Presentations: **Tuesday, May 10<sup>th</sup>, 7:00 &ndash; 9:00 PM**
 
 ### Introduction
 
-In this lab, you will work on a final project of your own choice.
+In this lab, you will work on a final project of your own choice. The Instructor must approve your project.
 The primary requirement is that your project be something interesting and related to computer security.
 
 ### Your Task
