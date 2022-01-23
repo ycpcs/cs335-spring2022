@@ -28,7 +28,8 @@ Troubleshooting
   - ```sudo apt upgrade``` - will upgrade all installed packages to their latest versions
 - If the guest screen is too small:
   - With VirtualBox 6.0.0 you need to go to the VirtualBox Preferences » Display » Scale Factor = 200%.
-- When you clone your VM's, make sure the MAC Address Policy is set to __Generate new MAC addresses for all network adapters__.
+- When you clone your VM's, make sure the MAC Address Policy is set to _Generate new MAC addresses for all network adapters_.
+- I will use [Sublime](https://www.sublimetext.com/) in class, if you want to use the same, you can install it using: ```sudo snap install sublime-text --classic```  
 
 Cheat Sheets
 -----------------------------------
