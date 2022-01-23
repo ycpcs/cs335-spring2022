@@ -24,8 +24,8 @@ Manual
 Troubleshooting
 -----------------------------------
 - The first thing you should do after creating your SEED VM is to update your packages; to do that, run the following two commands from your VM:
-  - ```sudo apt update```
-  - ```sudo apt upgrade```
+  - ```sudo apt update``` - this commands downloads package information from all configured sources
+  - ```sudo apt upgrade``` - will upgrade all installed packages to their latest versions
 - If the guest screen is too small:
   - With VirtualBox 6.0.0 you need to go to the VirtualBox Preferences » Display » Scale Factor = 200%.
 - When you clone your VM's, make sure the MAC Address Policy is set to __Generate new MAC addresses for all network adapters__.
