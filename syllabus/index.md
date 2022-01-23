@@ -30,7 +30,7 @@ CS 330 with a grade of 2.0 or higher
 
 Required Textbook
 -----------------
-Wenliang Du, <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/dp/1733003924">Computer & Internet Security: A Hands-on Approach</a>. Wenliang Du; 2 edition, 2019, ISBN-13: 978-1733003926. Code listed in the book can be found in [GitHub](https://github.com/kevin-w-du/BookCode).
+Wenliang Du, <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/dp/1733003924">Computer & Internet Security: A Hands-on Approach</a>. Wenliang Du; 2 edition, 2019, ISBN-13: 978-1733003926. 
 
 Course Structure and Expectations
 ---------------------------------
