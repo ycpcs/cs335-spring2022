@@ -29,7 +29,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 07 | Mar 08 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 | <!--[Local DNS Attack Lab](../labs/dns_attack.html)-->
 > 07 | Mar 10 | Winter Vacation |  |
 > | | | |
-> 08 | Mar 15 | Cybersecurity Research Project Demo | |
+> 08 | Mar 15 | Cybersecurity Research Project Presentations | |
 > 08 | Mar 17 | DNS Security | CIS: Ch 18 |
 > | | | |
 > 09 | Mar 22 | Firewalls | CIS: Ch 18 |
@@ -53,6 +53,6 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 15 | May 03 | Guest Speaker | Email me your questions |
 > 15 | May 05 | Course Wrap Up | Project Demo |
 > | | | |
-> 16 | May 10 | Project Demo
+> 16 | May 10 | Student Project Presentations
 
 **Disclaimer:** This schedule is subject to change by the instructor.
