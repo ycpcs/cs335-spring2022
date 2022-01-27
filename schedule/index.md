@@ -51,7 +51,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 14 | Apr 28 | Quiz 2 | |
 > | | | |
 > 15 | May 03 | Guest Speaker | Email me your questions |
-> 15 | May 05 | Course Wrap Up | Project Demo |
+> 15 | May 05 | Course Wrap Up | Student Project Presentations |
 > | | | |
 > 16 | May 10 | Student Project Presentations
 
