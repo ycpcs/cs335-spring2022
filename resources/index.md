@@ -135,6 +135,7 @@ Security Threats
 - [Web Security Threat Classiﬁcation](http://www.webappsec.org/projects/threat/).
 - [The CAPTCHA Project](http://www.captcha.net/) Telling Humans and Computers Apart.
 - [CVE Details](https://www.cvedetails.com/) the ultimate security vulnerability datasource.
+- [Common Vulnerability Scoring System Calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)
 
 Bounty Platform
 -----------------------------------
