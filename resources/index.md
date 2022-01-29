@@ -126,6 +126,7 @@ Supplemental Material
 - [High Performance Browser Networking](https://hpbn.co/) is what every web developer should know about networking and web performance.
 - [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital.
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#structs).
+- [Principles of chaos engineering](https://principlesofchaos.org/)
 
 Security Threats
 ------------------------------------
