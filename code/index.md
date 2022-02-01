@@ -1,11 +1,12 @@
 ---
 layout: default
 course_number: CS335
-title: Code
+title: Code Snippets
 ---
 
 This page contains code snippets regularly used in class.
 
+<!--
 #### Password
 - Built _John The Ripper_ from source:
   - ```git clone https://github.com/magnumripper/JohnTheRipper.git```
@@ -76,7 +77,7 @@ This page contains code snippets regularly used in class.
 - Append to `/etc/bind/named.conf`
   - [cs335zone](dns\cs335_zone.html)
 - [dns_spoof.py](dns\dns_spoof.py)
-
+-->
 <!--
 #### TCP
 - Client: [tcp_client.c](tcp\tcp_client.c)
@@ -106,6 +107,7 @@ This page contains code snippets regularly used in class.
   - Send created packet using raw sockets: [send_udp_packet.c](sniff\send_udp_packet.c)
   - Sniffing and the Spoofing ICMP using Scapy: [sniff_snoop_icmp.py](sniff\sniff_snoop_icmp.py)
 -->
+<!--
 #### Buffer Overflow
 - Memory Layout: [mem_layout.cpp](buffer_overflow\mem_layout.cpp)
 
@@ -113,11 +115,11 @@ This page contains code snippets regularly used in class.
 - Attack on Set-UID: [vul.c](shell_shock\vul.c)
 - Vulnerable Bash program: [variables.c](shell_shock\variables.c)
 - Attack on CGI program: [test.cgi](shell_shock\test.cgi)
-
+-->
 #### Reverse Shell
 - File Descriptors: [fd.c](reverse_shell\fd.c)
 - Redirection (demo): [red.c](reverse_shell\red.c)
 - Redirection (dup): [dup.c](reverse_shell\dup.c)
 - Redirection (dup2): [dup2.c](reverse_shell\dup2.c)
-- Redirection (tcp): [tcp_out.c](reverse_shell\tcp_out.c)
-- Redirection (tcp): [tcp_in.c](reverse_shell\tcp_in.c)
+- Redirection (tcp out): [tcp_out.c](reverse_shell\tcp_out.c)
+- Redirection (tcp in): [tcp_in.c](reverse_shell\tcp_in.c)

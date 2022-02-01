@@ -1,5 +1,3 @@
-
-/* redirect_to_tcp.c */
 #include <stdio.h>
 #include <string.h>
 #include <sys/socket.h>
@@ -28,6 +26,6 @@ void main()
 	// write(sockfd, data, strlen(data));
 	dup2(sockfd, 1);
 	printf("%s\n", data);
-	
+
 	close(sockfd);
 }

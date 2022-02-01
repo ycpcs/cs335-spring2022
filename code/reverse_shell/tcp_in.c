@@ -1,5 +1,3 @@
-
-/* redirect_from_tcp.c */
 #include <stdio.h>
 #include <string.h>
 #include <sys/socket.h>

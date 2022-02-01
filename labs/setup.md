@@ -53,10 +53,12 @@ Cheat Sheets
   - Login shell (defaults to /bin/bash)
     - If you need a user account with a password for authentication with a system, but do not require an interactive shell
     - _/sbin/nologin_ and _/bin/false_ if the user tries to log in to the system, the nologin shell closes the connection of the user.
+- ```whoami``` prints out your current user name)
 - ```id``` display the user and group ids of your current user.
-- ```groupadd attacker``` created a group named _attacker_.
+- ```groupadd attackers``` created a group named _attackers_.
 - ```useradd -c "John Doe" -m john``` creates an account names _john_ with a comment of _John Doe_.
 - ```passwd john``` will set the password for the user _john_
+- ```usermod -a -G attackers geek``` adds _john_ to the _attackers_ group
 - ```userdel john``` deletes the _john_ account.
   - ```rm -r /home/john``` will delete the home directory of the _john_ account
   - ```su``` temporarily become the superuser
@@ -64,6 +66,7 @@ Cheat Sheets
   - ```who``` displays who is currently logged into the system
   - ```w``` shows which users are logged in and their activity
   - _chmod_ command is used to change the permissions of a file or directory.
+    - ```man chmod``` finds the manual for the _chmod_ command
 
 #### File Commands and Directory Navigation
 - ```cd``` go to _$HOME_ directory.
@@ -78,7 +81,7 @@ Cheat Sheets
 - ```rm -r directory``` removes the _directory_ and its contents recursively. Use the ```f``` argument to forcefully remove, re: ```rm -rf directory```.
 - ```touch file``` will create an empty _file_.
 - ```rm file``` removes a _flle_.
-- ```copy file file2``` will copy _file_ to _file2_.
+- ```cp file file2``` will copy _file_ to _file2_.
 - ```mv file file2``` renames or moves _file_ to _file2_.
 - ```cat filename``` will display the contests of _filename_.
 - ```cat > filename```  creates a new file with _filename_.
