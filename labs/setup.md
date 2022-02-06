@@ -52,14 +52,15 @@ Cheat Sheets
   - User home directory
   - Login shell (defaults to /bin/bash)
     - If you need a user account with a password for authentication with a system, but do not require an interactive shell
-    - _/sbin/nologin_ and _/bin/false_ if the user tries to log in to the system, the nologin shell closes the connection of the user.
+    - _/sbin/nologin_ and _/bin/false_ if the user tries to log in to the system, the nologin shell closes the connection of the user
 - ```whoami``` prints out your current user name)
-- ```id``` display the user and group ids of your current user.
-- ```groupadd attackers``` created a group named _attackers_.
-- ```useradd -c "John Doe" -m john``` creates an account names _john_ with a comment of _John Doe_.
+- ```id``` display the user and group ids of your current user
+- ```groupadd attackers``` created a group named _attackers_
+- ```useradd -c "John Doe" -m john``` creates an account names _john_ with a comment of _John Doe_
 - ```passwd john``` will set the password for the user _john_
 - ```usermod -a -G attackers geek``` adds _john_ to the _attackers_ group
-- ```userdel john``` deletes the _john_ account.
+- ```usermod --shell /bin/bash john``` update the default shell to bash of user _john_
+- ```userdel john``` deletes the _john_ account
   - ```rm -r /home/john``` will delete the home directory of the _john_ account
   - ```su``` temporarily become the superuser
   - ```last``` show last system logins
@@ -87,7 +88,7 @@ Cheat Sheets
 - ```cat > filename```  creates a new file with _filename_.
 
 #### Process commands
-- ```bg``` sends a process to the background
+- ```bg``` sends a process to the background.
 - ```fg```	runs a stopped process in the foreground.
 - ```top``` shows	details on all active processes.
 - ```ps```	gives the status of processes running for a user.
