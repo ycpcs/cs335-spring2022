@@ -14,7 +14,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 02 | Feb 01 | [Root Causes for Vulnerability](../slides/01_Reason_Vulnerability.pdf) | | [The Netflix Simian Army](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
 > 02 | Feb 03 | [Reverse Shell](../slides/09_Reverse_Shell.pdf)| CIS: Ch 9 | |  
 > | | | |
-> 03 | Feb 08 | [Shellshock Attack](../slides/03_Shellshock.pdf) | CIS: Ch 3 | <!--[Shellshock Attack Lab](../labs/shellshock.html)-->
+> 03 | Feb 08 | [Shellshock Attack](../slides/03_Shellshock.pdf) | CIS: Ch 3 | [Shellshock Attack Lab](../labs/shellshock.html)
 > 03 | Feb 10 | In class lab - Shellshock Attack | CIS: Ch 3|  
 > | | | |
 > 04 | Feb 15 | [Stack Layout](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | <!--[Buffer Overflow](../labs/buffer_overflow.html)-->
