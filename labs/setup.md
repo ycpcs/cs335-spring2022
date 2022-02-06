@@ -60,6 +60,7 @@ Cheat Sheets
 - ```passwd john``` will set the password for the user _john_
 - ```usermod -a -G attackers geek``` adds _john_ to the _attackers_ group
 - ```usermod --shell /bin/bash john``` update the default shell to bash of user _john_
+- ```sudo gpasswd -d john attackers``` removes _john_ from the _attackers_ group
 - ```userdel john``` deletes the _john_ account
   - ```rm -r /home/john``` will delete the home directory of the _john_ account
   - ```su``` temporarily become the superuser
