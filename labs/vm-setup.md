@@ -177,6 +177,8 @@ $ mkdir -p ~/Share
 $ sudo mount -t vboxsf VM_Shared ~/Share
 ```
 
+Additional lab setup information can be found on the [seed website](https://seedsecuritylabs.org/labsetup.html).
+
 **Important Note.** Please only use the shared folder to copy files
 between the VM and the host machine, and **never use it
 as your working folder**. Working from the shared folder has
