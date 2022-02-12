@@ -49,13 +49,13 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 
 - To unconditionally _make_ all targets: ```make -B```
 - Now you can debug ```stack-L1-dbg``` to find the address of ```buffer``` and frame pointer ```($ebp)```
- - Start debugging by: ```gdb stack-L1-dbg```
- - To place a breakpoint at bof: ```b bof```
- - To run the program type: ```r```
- - To get address of buffer: ``` p &buffer```
- - Address of the frame pointer: ```p $ebp```
- - To find the offset: use ```p``` to substract the two, ex: ```p (0xbfffeb08 - 0xbfffeae8)```
- - You can exit gdb debugging session by typing ```quit```
+  - Start debugging by: ```gdb stack-L1-dbg```
+  - To place a breakpoint at bof: ```b bof```
+  - To run the program type: ```r```
+  - To get address of buffer: ``` p &buffer```
+  - Address of the frame pointer: ```p $ebp```
+  - To find the offset: use ```p``` to substract the two, ex: ```p (0xbfffeb08 - 0xbfffeae8)```
+  - You can exit gdb debugging session by typing ```quit```
 - ```touch badfile``` will create an empty ```badfile```
 
 ### Grading
