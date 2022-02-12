@@ -1,4 +1,4 @@
-/* call_shellcode.c  */
+/* launch_shell.c  */
  #include <unistd.h>
 
 int main(int argc, char **argv)

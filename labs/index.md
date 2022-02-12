@@ -6,8 +6,8 @@ title: Labs
 
 This page links to lab assignments.
 
-> Lab | File | Due
 > ---------- | ---- | ---
+> Lab | File | Due
 > Lab Setup | [Setup](setup.html) | n/a
 > Shellshock Attack Lab | [Description and Tasks](shellshock.html) | Feb 17
 > Buffer Overflow Attack Lab | [Description and Tasks](buffer_overflow.html) | Mar 01
