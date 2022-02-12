@@ -8,44 +8,55 @@ title: Lab - Buffer Overflow
 
 ### Lab Description and Tasks
 
-The **BUF SIZE** value for this lab is: **212**.
+- Lab Description: [Buffer Overflow.pdf](buffer\Buffer_Overflow_Setuid.pdf)
+  <!-- - The **BUF SIZE** value for this lab is: **180**.-->
+- Lab Setup files: [Labsetup.zip](buffer\Labsetup.zip)
 
-[Buffer Overflow.pdf](Buffer_Overflow.pdf)
+Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Setuid/).
 
-Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Software/Buffer_Overflow/).
-
-[Smashing The Stack For Fun And Profit](https://insecure.org/stf/smashstack.html), Aleph One
+- [Smashing The Stack For Fun And Profit](https://insecure.org/stf/smashstack.html), Aleph One
 
 ### Source Files
 
+<!--
 - Lab Files
   - Build Malicious file: [exploit.c](buffer/exploit.c)
   - Vulnerable program: [stack.c](buffer/stack.c)
   - Defeat Randomization: [defeat_rand.sh](buffer\defeat_rand.sh)
   - Helper Shell to build and setup stack.c: [build_stack.sh](buffer/build_stack.sh)
+-->
 
 - Examples  
-  - Launching shell: [call_shellcode.c](buffer/call_shellcode.c)
+  - Launching shell: [launch_shell.c](buffer\launch_shell.c)
+  - ASCII vs binary: [print_zero.c](buffer\print_zero.c)
   - Print *esp*: [sp.c](buffer/sp.c)
+
+<!--
   - Shellcode in stack: [shellcode.c](buffer/shellcode.c) (compile with ```-z execstack```)
   - Defeat dash test: [dash_shell_test.c](buffer/dash_shell_test.c)
+-->
 
 ### Tips
 
- - To turn off address randomization: ```$ sudo sysctl -w kernel.randomize_va_space=0```
- - Check the current randomization status: ```$ sudo sysctl kernel.randomize_va_space```
- - If you forget to turn off the non-executable stack protection ``` -z execstack``` you will get a *Segmentation fault*
- - To compile the ```stack.c``` program using debug flags: ```gcc stack.c -o gdb-stack -g -z execstack -fno-stack-protector```.
-   - Now you can debug ```gdb-stack``` to find the address of ```buffer``` and frame pointer ```($ebp)```
-     - Start debugging by: ```gdb gdb-stack```
-     - To place a breakpoint at bof: ```b bof```
-     - To run the program type: ```r```
-     - To get address of buffer: ``` p &buffer```
-     - Address of the frame pointer: ```p $ebp```
-     - To find the offset: use ```p``` to substract the two, ex: ```p (0xbfffeb08 - 0xbfffeae8)```
-     - You can exit gdb debugging session by typing ```quit```
+- The following command can be used to link ```/bin/sh``` to ```/bin/zsh```: ```sudo ln -sf /bin/zsh /bin/sh```
+- To turn off address randomization: ```$ sudo sysctl -w kernel.randomize_va_space=0```
+- Check the current randomization status: ```$ sudo sysctl kernel.randomize_va_space```
+- If you forget to turn off the non-executable stack protection ``` -z execstack``` you will get a *Segmentation fault*
 
- - ```touch badfile``` will create an empty ```badfile```
+<!--
+ - To compile the ```stack.c``` program using debug flags: ```gcc stack.c -o gdb-stack -g -z execstack -fno-stack-protector```.
+ -->
+
+- To unconditionally _make_ all targets: ```make -B```
+- Now you can debug ```stack-L1-dbg``` to find the address of ```buffer``` and frame pointer ```($ebp)```
+ - Start debugging by: ```gdb stack-L1-dbg```
+ - To place a breakpoint at bof: ```b bof```
+ - To run the program type: ```r```
+ - To get address of buffer: ``` p &buffer```
+ - Address of the frame pointer: ```p $ebp```
+ - To find the offset: use ```p``` to substract the two, ex: ```p (0xbfffeb08 - 0xbfffeae8)```
+ - You can exit gdb debugging session by typing ```quit```
+- ```touch badfile``` will create an empty ```badfile```
 
 ### Grading
 

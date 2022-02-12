@@ -11,6 +11,7 @@ Development Environment
 - Microsoft  [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
 - [GCC](https://gcc.gnu.org/), the GNU Compiler Collection.
 - [GDB](https://www.gnu.org/software/gdb/), the GNU Project Debugger.
+- [GNU make](http://www.gnu.org/software/make/) and GNU make [manual](http://www.gnu.org/software/make/manual/make.html).
 
 Passive Capture
 ------------------------------------

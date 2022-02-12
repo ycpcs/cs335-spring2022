@@ -17,7 +17,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 03 | Feb 08 | [Shellshock Attack](../slides/03_Shellshock.pdf) | CIS: Ch 3 | [Shellshock Attack Lab](../labs/shellshock.html)
 > 03 | Feb 10 | In class lab - Shellshock Attack | CIS: Ch 3|  
 > | | | |
-> 04 | Feb 15 | [Stack Layout](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | <!--[Buffer Overflow](../labs/buffer_overflow.html)-->
+> 04 | Feb 15 | [Stack Layout](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | [Buffer Overflow](../labs/buffer_overflow.html)
 > 04 | Feb 17 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 |
 > | | | |
 > 05 | Feb 22 | [Packet Sniffing](../slides/15_Packet_Sniffing_Spoofing.pdf) | CIS: Ch 15 | <!--[Packet sniffing and spoofing](../labs/sniff_spoof.html)-->

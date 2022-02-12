@@ -8,8 +8,8 @@ title: Lab - Shellshock
 
 ### Lab Description and Tasks
 
-[Shellshock.pdf](shellshock/Shellshock.pdf)
-[Labsetup.zip](shellshock/Labsetup.zip)
+- Lab Description: [Shellshock.pdf](shellshock/Shellshock.pdf)
+- Lab Setup files: [Labsetup.zip](shellshock/Labsetup.zip)
 
 Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Software/Shellshock/).
 
