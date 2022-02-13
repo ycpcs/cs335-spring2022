@@ -107,10 +107,11 @@ This page contains code snippets regularly used in class.
   - Send created packet using raw sockets: [send_udp_packet.c](sniff\send_udp_packet.c)
   - Sniffing and the Spoofing ICMP using Scapy: [sniff_snoop_icmp.py](sniff\sniff_snoop_icmp.py)
 -->
-<!--
+
 #### Buffer Overflow
 - Memory Layout: [mem_layout.cpp](buffer_overflow\mem_layout.cpp)
 
+<!--
 #### Shell Shock
 - Attack on Set-UID: [vul.c](shell_shock\vul.c)
 - Vulnerable Bash program: [variables.c](shell_shock\variables.c)
