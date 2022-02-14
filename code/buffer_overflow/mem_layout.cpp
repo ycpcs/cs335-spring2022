@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int x = 100;
 
@@ -9,11 +10,11 @@ int main()
 
 	static int y;
 
-	int* ptr = new int[2];
+	int* ptr = (int*) malloc(2 * sizeof(int));
 	ptr[0] = 10;
 	ptr[1] = 20;
 
-	delete[] ptr;
+	free(ptr);
 
 	return 1;
 }
