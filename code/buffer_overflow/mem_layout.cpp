@@ -5,7 +5,7 @@ int x = 100;
 int main()
 {
 	int a = 2;
-	float b = 3.41592;
+	float b = 3.141592;
 
 	static int y;
 
