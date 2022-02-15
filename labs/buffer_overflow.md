@@ -16,6 +16,8 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 
 - [Smashing The Stack For Fun And Profit](https://insecure.org/stf/smashstack.html), Aleph One
 
+- Alternative to create _badfile_: [exploit.c](buffer\exploit.c) 
+
 ### Tips
 
 - The following command can be used to link ```/bin/sh``` to ```/bin/zsh```: ```sudo ln -sf /bin/zsh /bin/sh```
