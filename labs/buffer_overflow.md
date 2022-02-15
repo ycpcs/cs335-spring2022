@@ -16,26 +16,6 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 
 - [Smashing The Stack For Fun And Profit](https://insecure.org/stf/smashstack.html), Aleph One
 
-### Source Files
-
-<!--
-- Lab Files
-  - Build Malicious file: [exploit.c](buffer/exploit.c)
-  - Vulnerable program: [stack.c](buffer/stack.c)
-  - Defeat Randomization: [defeat_rand.sh](buffer\defeat_rand.sh)
-  - Helper Shell to build and setup stack.c: [build_stack.sh](buffer/build_stack.sh)
--->
-
-- Examples  
-  - Launching shell: [launch_shell.c](buffer\launch_shell.c)
-  - ASCII vs binary: [print_zero.c](buffer\print_zero.c)
-  - Print *esp*: [sp.c](buffer/sp.c)
-
-<!--
-  - Shellcode in stack: [shellcode.c](buffer/shellcode.c) (compile with ```-z execstack```)
-  - Defeat dash test: [dash_shell_test.c](buffer/dash_shell_test.c)
--->
-
 ### Tips
 
 - The following command can be used to link ```/bin/sh``` to ```/bin/zsh```: ```sudo ln -sf /bin/zsh /bin/sh```
