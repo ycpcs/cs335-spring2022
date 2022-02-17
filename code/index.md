@@ -112,7 +112,8 @@ This page contains code snippets regularly used in class.
 - Memory Layout: [mem_layout.cpp](buffer_overflow\mem_layout.cpp)
 - Launching shell: [launch_shell.c](buffer_overflow\launch_shell.c)
 - ASCII vs binary: [print_zero.c](buffer_overflow\print_zero.c)
-- Print *esp*: [sp.c](buffer_overflow/sp.c)
+- Print *esp*: [sp.c](buffer_overflow\sp.c)
+- ASLR: [aslr.c](buffer_overflow\aslr.c)
 
 <!--
 #### Shell Shock
