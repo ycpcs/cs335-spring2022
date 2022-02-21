@@ -20,8 +20,8 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 04 | Feb 15 | [Stack Layout](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | [Buffer Overflow](../labs/buffer_overflow.html)
 > 04 | Feb 17 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 |
 > | | | |
-> 05 | Feb 22 | [Packet Sniffing](../slides/15_Packet_Sniffing_Spoofing.pdf) | CIS: Ch 15 | <!--[Packet sniffing and spoofing](../labs/sniff_spoof.html)-->
-> 05 | Feb 24 | Packet Spoofing | CIS: Ch 15 |
+> 05 | Feb 22 | Buffer Overflow - 64 bit, Server Version | CIS: Ch 4 |
+> 05 | Feb 24 | [Packet Sniffing & Spoofing](../slides/15_Packet_Sniffing_Spoofing.pdf) | CIS: Ch 15 | <!--[Packet sniffing and spoofing](../labs/sniff_spoof.html)-->
 > | | | |
 > 06 | Mar 01 | [Attacks on TCP Protocol](../slides/16_TCP_Attack.pdf) | CIS: Ch 16 | <!--[TCP/IP Attack Lab](../labs/tcp_attack.html)-->
 > 06 | Mar 03 | TCP Session Hijacking | |
