@@ -93,6 +93,7 @@ Steganography
 System Utilities
 ------------------------------------
 - [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/) is a suite of more than 70 freeware utilities used to monitor, manage and troubleshoot the Windows operating system.
+- [NirSoft](https://www.nirsoft.net/) is a unique collection of small and useful utilities, including password recovery, networking tools, forensics and more.
 
 API Development
 ------------------------------------
