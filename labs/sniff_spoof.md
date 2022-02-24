@@ -10,7 +10,7 @@ title: Lab - Packet Sniffing and Spoofing
 
 [Sniffing & Spoofing.pdf](Sniffing_Spoofing.pdf)
 
-Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Networking/Sniffing_Spoofing/).
+Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/).
 
 Scapy and pcap API references can be found in the [Resources](../resources/index.html) page.
 

@@ -25,8 +25,9 @@ void main() {
 	while (1) {
 		bzero(buf, buf_len);
 
-		if (recvfrom(sock, buf, buf_len, 0, (struct sockaddr*)&saddr, (socklen_t *)&clientlen)) {
-			printf("Received a packet.\n");
+		int size = recvfrom(sock, buf, buf_len, 0, (struct sockaddr*)&saddr, (socklen_t *)&clientlen);
+		if(size != -1) {
+			printf("Received a packet. %d\n", size);
 		}
 	}
 	close(sock);

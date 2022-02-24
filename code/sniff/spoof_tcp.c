@@ -10,9 +10,9 @@
 #include "ip.h"
 
 #define SRC_IP     "1.2.3.4"
-#define DEST_IP    "10.0.2.5"
+#define DEST_IP    "10.0.2.22"
 #define SRC_PORT   42433
-#define DEST_PORT  9090 
+#define DEST_PORT  9090
 #define SEQ_NUM    3092566627
 #define TCP_DATA   "Hello Server!"
 
@@ -59,8 +59,8 @@ int main() {
 	 ********************************************************/
 	ip->iph_ver = 4;   // Version (IPV4)
 	ip->iph_ihl = 5;   // Header length
-	ip->iph_ttl = 20;  // Time to live 
-	//  ip->iph_sourceip.s_addr = rand(); // Use a random IP address 
+	ip->iph_ttl = 20;  // Time to live
+	//  ip->iph_sourceip.s_addr = rand(); // Use a random IP address
 	ip->iph_sourceip.s_addr = inet_addr(SRC_IP); // Source IP
 	ip->iph_destip.s_addr = inet_addr(DEST_IP);  // Dest IP
 	ip->iph_protocol = IPPROTO_TCP; // The value is 6.

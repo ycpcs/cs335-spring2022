@@ -83,30 +83,30 @@ This page contains code snippets regularly used in class.
 - Client: [tcp_client.c](tcp\tcp_client.c)
 - Server: [tcp_server.c](tcp\tcp_server.c) & [tcp_server_multi.c](tcp\tcp_server_multi.c)
 - Sent RST packet: [rst_packet.py](tcp\rst_packet.py)
+-->
 
 #### Packet Sniffing and Spoofing
 - Sniffing
+  - UDP server: [udp_server.c](sniff\udp_server.c)
   - Packet Sniffing using raw sockets: [sniff_raw.c](sniff\sniff_raw.c)
   - Packet Sniffing using pcap API: [sniff_pcap.c](sniff\sniff_pcap.c)
-  - Packet Sniffing using pcap API (ether): [sniff_ether.c](sniff\sniff_ether.c)
-  - Send Raw Packets (method only): [spoof.c](sniff\spoof.c)
+  - Packet Sniffing using pcap API (improved): [sniff_ethe.c](sniff\sniff_ether.c)
   - Sniff using Scapy: [sniff.py](sniff\sniff.py)
 - Spoofing
+  - UDP client: [udp_client.c](sniff\udp_client.c)
   - Spoof ICMP using raw sockets: [spoof_icmp.c](sniff\spoof_icmp.c)
   - Spoof UDP using raw sockets: [spoof_udp.c](sniff\spoof_udp.c)
   - Spoof TCP using raw sockets: [spoof_tcp.c](sniff\spoof_tcp.c)
   - Spoof UDP using Scapy: [spoof_udp.py](sniff\spoof_udp.py)
   - Spoof ICMP using Scapy: [spoof_icmp.py](sniff\spoof_icmp.py)
-- Misc
-  - UDP client: [udp_client.c](sniff\udp_client.c)
-  - UDP server: [udp_server.c](sniff\udp_server.c)
-  - TCP/IP Header Structures: [ip.h](sniff\ip.h)
-  - Calculating Checksum: [checksum.h](sniff\checksum.c)
 - Sniffing along with Spoofing
   - Create packet using Scapy: [create_udp_packet.py](sniff\create_udp_packet.py)
   - Send created packet using raw sockets: [send_udp_packet.c](sniff\send_udp_packet.c)
   - Sniffing and the Spoofing ICMP using Scapy: [sniff_snoop_icmp.py](sniff\sniff_snoop_icmp.py)
--->
+- Helpers
+  - TCP/IP Header Structures: [ip.h](sniff\ip.h)
+  - Calculating Checksum: [checksum.h](sniff\checksum.c)
+  - Send Raw Packets (method only): [spoof.c](sniff\spoof.c)
 
 #### Buffer Overflow
 - Memory Layout: [mem_layout.cpp](buffer_overflow\mem_layout.cpp)
@@ -116,11 +116,13 @@ This page contains code snippets regularly used in class.
 - ASLR: [aslr.c](buffer_overflow\aslr.c)
 
 <!--
-#### Shell Shock
+##
+## Shell Shock
 - Attack on Set-UID: [vul.c](shell_shock\vul.c)
 - Vulnerable Bash program: [variables.c](shell_shock\variables.c)
 - Attack on CGI program: [test.cgi](shell_shock\test.cgi)
 -->
+
 #### Reverse Shell
 - File Descriptors: [fd.c](reverse_shell\fd.c)
 - Redirection (demo): [red.c](reverse_shell\red.c)

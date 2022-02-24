@@ -14,7 +14,6 @@ void main() {
 
 	int sock = socket(AF_INET, SOCK_DGRAM, IPPROTO_UDP);
 
-
 	memset((char*)&server, 0, sizeof(server));
 	server.sin_family = AF_INET;
 
@@ -23,6 +22,7 @@ void main() {
 
 	if (bind(sock, (struct sockaddr*) & server, sizeof(server)) < 0) {
 		perror("ERROR on binding");
+		return;
 	}
 
 	int buf_len = sizeof(buf);
