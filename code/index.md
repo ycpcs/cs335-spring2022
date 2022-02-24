@@ -90,7 +90,7 @@ This page contains code snippets regularly used in class.
   - UDP server: [udp_server.c](sniff\udp_server.c)
   - Packet Sniffing using raw sockets: [sniff_raw.c](sniff\sniff_raw.c)
   - Packet Sniffing using pcap API: [sniff_pcap.c](sniff\sniff_pcap.c)
-  - Packet Sniffing using pcap API (improved): [sniff_ethe.c](sniff\sniff_ether.c)
+  - Packet Sniffing using pcap API (improved): [sniff_ether.c](sniff\sniff_ether.c)
   - Sniff using Scapy: [sniff.py](sniff\sniff.py)
 - Spoofing
   - UDP client: [udp_client.c](sniff\udp_client.c)
