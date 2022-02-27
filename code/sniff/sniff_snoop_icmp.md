@@ -1,3 +1,4 @@
+```
 #!/usr/bin/python3
 from scapy.all import *
 
@@ -19,3 +20,4 @@ def spoof_pkt(pkt):
      send(newpkt,verbose=0)
 
 pkt = sniff(filter='icmp and src host 10.0.2.5',prn=spoof_pkt)
+```

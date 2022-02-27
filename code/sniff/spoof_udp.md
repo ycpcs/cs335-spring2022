@@ -1,3 +1,4 @@
+```
 #!/usr/bin/python3
 from scapy.all import *
 
@@ -8,3 +9,4 @@ data = "Spoofing UDP!\n"                   	# Payload
 pkt = ip/udp/data      						# Construct the complete packet
 pkt.show()
 send(pkt,verbose=0)
+```

@@ -1,3 +1,4 @@
+```
 #!/usr/bin/python3
 from scapy.all import *
 
@@ -9,3 +10,4 @@ pkt = IPpkt/UDPpkt/data
 # Save the packet data to a file
 with open('ip.bin', 'wb') as f:
   f.write(bytes(pkt))
+```

@@ -91,18 +91,18 @@ This page contains code snippets regularly used in class.
   - Packet Sniffing using raw sockets: [sniff_raw.c](sniff\sniff_raw.c)
   - Packet Sniffing using pcap API: [sniff_pcap.c](sniff\sniff_pcap.c)
   - Packet Sniffing using pcap API (improved): [sniff_ether.c](sniff\sniff_ether.c)
-  - Sniff using Scapy: [sniff.py](sniff\sniff.py)
+  - Sniff using Scapy: [sniff.py](sniff\sniff.html)
 - Spoofing
   - UDP client: [udp_client.c](sniff\udp_client.c)
   - Spoof ICMP using raw sockets: [spoof_icmp.c](sniff\spoof_icmp.c)
   - Spoof UDP using raw sockets: [spoof_udp.c](sniff\spoof_udp.c)
   - Spoof TCP using raw sockets: [spoof_tcp.c](sniff\spoof_tcp.c)
-  - Spoof UDP using Scapy: [spoof_udp.py](sniff\spoof_udp.py)
-  - Spoof ICMP using Scapy: [spoof_icmp.py](sniff\spoof_icmp.py)
+  - Spoof UDP using Scapy: [spoof_udp.py](sniff\spoof_udp.html)
+  - Spoof ICMP using Scapy: [spoof_icmp.py](sniff\spoof_icmp.html)
 - Sniffing along with Spoofing
-  - Create packet using Scapy: [create_udp_packet.py](sniff\create_udp_packet.py)
+  - Create packet using Scapy: [create_udp_packet.py](sniff\create_udp_packet.html)
   - Send created packet using raw sockets: [send_udp_packet.c](sniff\send_udp_packet.c)
-  - Sniffing and the Spoofing ICMP using Scapy: [sniff_snoop_icmp.py](sniff\sniff_snoop_icmp.py)
+  - Sniffing and the Spoofing ICMP using Scapy: [sniff_snoop_icmp.py](sniff\sniff_snoop_icmp.html)
 - Helpers
   - TCP/IP Header Structures: [ip.h](sniff\ip.h)
   - Calculating Checksum: [checksum.h](sniff\checksum.c)

@@ -1,3 +1,4 @@
+```
 #!/usr/bin/python3
 from scapy.all import *
 
@@ -9,4 +10,5 @@ def print_pkt(pkt):
    print("Protocol:", pkt[IP].proto)
    print("\n")
 
-pkt = sniff(filter='icmp', prn=print_pkt)  
+pkt = sniff(filter='icmp', prn=print_pkt)
+```
