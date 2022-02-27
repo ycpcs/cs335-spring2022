@@ -8,7 +8,8 @@ title: Lab - Packet Sniffing and Spoofing
 
 ### Lab Description and Tasks
 
-[Sniffing & Spoofing.pdf](Sniffing_Spoofing.pdf)
+- Lab Description: [Sniffing & Spoofing.pdf](sniff\Sniffing_Spoofing.pdf)
+- Lab Setup Files: [Labsetup.zip](sniff\Labsetup.zip)
 
 Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/).
 
