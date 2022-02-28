@@ -4,6 +4,8 @@ course_number: CS335
 title: Code Snippets - Python example
 ---
 
+Sniffing packets using Scapy
+
 ```
 #!/usr/bin/python3
 from scapy.all import *

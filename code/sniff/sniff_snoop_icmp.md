@@ -1,8 +1,10 @@
 ---
 layout: default
 course_number: CS335
-title: Code Snippets - Python example
+title: Code Snippets
 ---
+
+Sniff then spoof ICMP packets
 
 ```
 #!/usr/bin/python3
@@ -25,5 +27,5 @@ def spoof_pkt(pkt):
 
      send(newpkt,verbose=0)
 
-pkt = sniff(filter='icmp and src host 10.0.2.5',prn=spoof_pkt)
+pkt = sniff(filter='icmp and src host 10.0.2.5', prn=spoof_pkt)
 ```

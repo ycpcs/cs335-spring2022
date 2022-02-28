@@ -1,8 +1,10 @@
 ---
 layout: default
 course_number: CS335
-title: Code Snippets - Python example
+title: Code Snippets
 ---
+
+Creating UDP packets
 
 ```
 #!/usr/bin/python3
