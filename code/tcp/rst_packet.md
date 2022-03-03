@@ -1,3 +1,13 @@
+---
+layout: default
+course_number: CS335
+title: Code Snippets - Python example
+---
+
+Send TCP packet with RST
+
+```
+
 #!/usr/bin/python3
 import sys
 from scapy.all import *
