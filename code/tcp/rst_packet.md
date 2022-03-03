@@ -7,7 +7,6 @@ title: Code Snippets - Python example
 Send TCP packet with RST
 
 ```
-
 #!/usr/bin/python3
 import sys
 from scapy.all import *
@@ -27,3 +26,4 @@ pkt = ip/tcp
 
 pkt.show()
 send(pkt, verbose = 0)
+```
