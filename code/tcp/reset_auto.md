@@ -1,3 +1,12 @@
+---
+layout: default
+course_number: CS335
+title: Code Snippets - Python example
+---
+
+Reset existing TCP connection
+
+```
 #!/usr/bin/python3
 from scapy.all import *
 
@@ -15,3 +24,4 @@ def spoof_tcp(pkt):
    send(pkt, verbose=0)
 
 pkt=sniff(filter = 'tcp and src host 10.0.2.12', prn = spoof_tcp)
+```
