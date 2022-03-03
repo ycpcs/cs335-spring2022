@@ -78,12 +78,11 @@ This page contains code snippets regularly used in class.
   - [cs335zone](dns\cs335_zone.html)
 - [dns_spoof.py](dns\dns_spoof.py)
 -->
-<!--
+
 #### TCP
 - Client: [tcp_client.c](tcp\tcp_client.c)
 - Server: [tcp_server.c](tcp\tcp_server.c) & [tcp_server_multi.c](tcp\tcp_server_multi.c)
 - Sent RST packet: [rst_packet.py](tcp\rst_packet.py)
--->
 
 #### Packet Sniffing and Spoofing
 - Sniffing
