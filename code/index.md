@@ -84,7 +84,7 @@ This page contains code snippets regularly used in class.
 - Server: [tcp_server.c](tcp\tcp_server.c) & [tcp_server_multi.c](tcp\tcp_server_multi.c)
 - Sent RST packet: [rst_packet.py](tcp\rst_packet.html)
 - Reset existing connections: [reset_auto.py](tcp\reset_auto.html)
-- Hijack Session: [session_hijack.py](tcp\session_hijack.md)
+- Hijack Session: [session_hijack.py](tcp\session_hijack.html)
 
 #### Packet Sniffing and Spoofing
 - Sniffing
