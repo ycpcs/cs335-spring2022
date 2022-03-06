@@ -7,8 +7,8 @@ title: Code Snippets - Python example
 Hijack Telnet session
 
 ```
-
 #!/usr/bin/python3
+
 import sys
 from scapy.all import *
 
@@ -22,5 +22,4 @@ pkt = IPLayer/TCPLayer/Data
 
 pkt.show()
 send(pkt,verbose=0)
-
 ```
