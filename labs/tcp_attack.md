@@ -8,11 +8,12 @@ title: Lab - TCP Attack Lab
 
 ### Lab Description and Tasks
 
-[TCP Attack.pdf](TCP_Attacks.pdf)
+- Lab Description: [TCP Attack.pdf](tcp\TCP_Attacks.pdf)
+- Lab Setup Files: [Labsetup.zip](tcp\Labsetup.zip)
 
-Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Networking/TCP_Attacks/).
+Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/).
 
-Scapy and netwox references can be found in the [Resources](../resources/index.html) page.
+Scapy, tcpdump and netwox references can be found in the [Resources](../resources/index.html) page.
 
 ### Grading
 
