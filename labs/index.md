@@ -12,7 +12,7 @@ This page links to lab assignments.
 > Shellshock Attack Lab | [Description and Tasks](shellshock.html) | Feb 17
 > Buffer Overflow Attack Lab | [Description and Tasks](buffer_overflow.html) | Mar 01
 > Packet Sniffing and Spoofing | [Description and Tasks](sniff_spoof.html) | Mar 17
-> TCP Attack | [Description and Tasks](tcp_attack.html) | Mar 24
+> Attacks on TCP | [Description and Tasks](tcp_attack.html) | Mar 24
 
 <!--
 > Local DNS Attack | [Description and Tasks](dns_attack.html) | Mar 30
