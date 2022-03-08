@@ -23,7 +23,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 05 | Feb 22 | Buffer Overflow - 64 bit, Server Version | CIS: Ch 4 |
 > 05 | Feb 24 | [Packet Sniffing & Spoofing](../slides/15_Packet_Sniffing_Spoofing.pdf) | CIS: Ch 15 | [Packet sniffing and spoofing](../labs/sniff_spoof.html)
 > | | | |
-> 06 | Mar 01 | Packet Sniffing & Spoofing using Python | CIS: Ch 15 | 
+> 06 | Mar 01 | Packet Sniffing & Spoofing using Python | CIS: Ch 15 |
 > 06 | Mar 03 | [Attacks on TCP Protocol](../slides/16_TCP_Attack.pdf) | CIS: Ch 16 |
 > | | | |
 > 07 | Mar 08 | TCP Session Hijacking | CIS: Ch 16 | [TCP/IP Attack Lab](../labs/tcp_attack.html)
@@ -32,7 +32,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 08 | Mar 15 | Cybersecurity Research Project Presentations | |
 > 08 | Mar 17 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 | <!--[Local DNS Attack Lab](../labs/dns_attack.html)-->
 > | | | |
-> 09 | Mar 22 | Firewalls | CIS: Ch 18 |
+> 09 | Mar 22 | Firewalls | CIS: Ch 17 |
 > 09 | Mar 24 | [Arp Spoofing](../slides/ARP_Spoofing.pdf) Hands On | |
 > | | | |
 > 10 | Mar 29 | Password Cracking - Hands On | |
