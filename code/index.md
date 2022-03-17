@@ -69,15 +69,15 @@ This page contains code snippets regularly used in class.
   - sudo sysctl -w net.ipv4.ip_forward=1
   - sudo iptables -t nat -A PREROUTING -p tcp --dport 8000 -j DNAT --to-destination _server_ip_address_
   - sudo iptables -t nat -A POSTROUTING -j MASQUERADE
-
-#### DNS
-- Add to `/etc/bind/`
-  - [etc/bind/191.168.0.db](dns\191.168.0.db)
-  - [etc/bind/cs335.com.db](dns\cs335.com.db)
-- Append to `/etc/bind/named.conf`
-  - [cs335zone](dns\cs335_zone.html)
-- [dns_spoof.py](dns\dns_spoof.py)
 -->
+#### DNS
+- [dns_spoof.py](dns\dns_spoof.html)
+- Examples of DNS zone files
+  - Add to `/etc/bind/`
+    - [etc/bind/191.168.0.db](dns\191.168.0.db)
+    - [etc/bind/cs335.com.db](dns\cs335.com.db)
+  - Append to `/etc/bind/named.conf`
+    - [cs335zone](dns\cs335_zone.html)
 
 #### TCP
 - Client: [tcp_client.c](tcp\tcp_client.c)

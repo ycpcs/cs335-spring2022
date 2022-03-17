@@ -8,15 +8,17 @@ title: Lab - Local DNS Attack
 
 ### Lab Description and Tasks
 
-[Local DNS Attack.pdf](DNS_Local.pdf)
+- Lab Description: [DNS_Local.pdf](local_dns/DNS_Local.pdf)
+- Lab Setup files: [Labsetup.zip](local_dns/Labsetup.zip)
 
 Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Networking/DNS_Local/).
 
+<!--
 - __Example__ files (* you may need to alter them for this lab)
   - Zone file for domain cs335.com: [/var/cache/bind/cs335.com.db](../code/dns/cs335.com.db)
   - Zone file for DNS reverse lookup: [/var/cache/bind/191.168.0.db](../code/dns/191.168.0.db)
-
-_netwib_ and _netwox_ references can be found in the [Resources](../resources/index.html) page.
+-->
+_scapy_, _netwib_ and _netwox_ references can be found in the [Resources](../resources/index.html) page.
 
 ### Additional Tasks
 - You must provide a screenshot of the network traffic with each attack.
