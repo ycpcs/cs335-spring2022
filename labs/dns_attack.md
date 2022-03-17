@@ -11,7 +11,7 @@ title: Lab - Local DNS Attack
 - Lab Description: [DNS_Local.pdf](local_dns/DNS_Local.pdf)
 - Lab Setup files: [Labsetup.zip](local_dns/Labsetup.zip)
 
-Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Networking/DNS_Local/).
+Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Local/).
 
 <!--
 - __Example__ files (* you may need to alter them for this lab)
