@@ -32,7 +32,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 08 | Mar 15 | Cybersecurity Research Project Presentations | |
 > 08 | Mar 17 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 | [Local DNS Attack Lab](../labs/dns_attack.html)
 > | | | |
-> 09 | Mar 22 | Firewalls | CIS: Ch 17 |
+> 09 | Mar 22 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 |
 > 09 | Mar 24 | [Arp Spoofing](../slides/ARP_Spoofing.pdf) Hands On | |
 > | | | |
 > 10 | Mar 29 | Password Cracking - Hands On | |
