@@ -77,7 +77,7 @@ This page contains code snippets regularly used in class.
     - [etc/bind/191.168.0.db](dns\191.168.0.db)
     - [etc/bind/cs335.com.db](dns\cs335.com.db)
   - Append to `/etc/bind/named.conf`
-    - [cs335zone](dns\cs335_zone.html
+    - [cs335zone](dns\cs335_zone.html)
 - Control Network Trafic Speed (attached to the external network)
   - Delay the network traffic by 100ms ```# tc qdisc add dev eth0 root netem delay 100ms```
   - Delete the ```tc``` entry ```# tc qdisc del dev eth0 root netem```
