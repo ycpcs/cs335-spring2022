@@ -21,7 +21,7 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 _scapy_, _netwib_ and _netwox_ references can be found in the [Resources](../resources/index.html) page.
 
 ### Additional Tasks
-- Demonstrate the attack (tasks 3.1 and 3.2) using netwox.
+- Demonstrate the attack (tasks 3.1) using netwox.
 - You must provide a screenshot of the network traffic with each attack.
 
 ### Grading
