@@ -6,7 +6,7 @@ title: Code Snippets
 
 This page contains code snippets regularly used in class.
 
-<!--
+
 #### Password
 - Built _John The Ripper_ from source:
   - ```git clone https://github.com/magnumripper/JohnTheRipper.git```
@@ -15,12 +15,13 @@ This page contains code snippets regularly used in class.
   - ```sudo apt-get install libssl-dev```
   - ```./configure```
   - ``` make -s clean && make -sj4```
+  - ``` pip install --user dpkt```
 
 - We can also download the binaries as zip:
-  - ```wget https://github.com/magnumripper/JohnTheRipper/archive/bleeding-jumbo.zip```
+  - ```wget https://github.com/magnumripper/JohnTheRipper/archive/bleeding-jumbo.zip --no-check-certificate```
   - ```unzip bleeding-jumbo.zip```
   - ```cd JohnTheRipper-bleeding-jumbo/src```
-  - ```./configure && make```
+  - ```./configure```
   - ``` make -s clean && make -sj4```
 
 - We can also download the binaries as tar:
@@ -38,17 +39,19 @@ This page contains code snippets regularly used in class.
   - ```sudo snap install john-the-ripper```
 
 - Install THC-Hydra
-  - ```wget https://github.com/vanhauser-thc/thc-hydra/archive/v9.1.tar.gz```
-  - ```tar -xvf v9.1.tar.gz```
-  - ```cd thc-hydra-9.1```
+  - ```wget https://github.com/vanhauser-thc/thc-hydra/archive/refs/tags/v9.3.tar.gz```
+  - ```tar -xvf v9.3.tar.gz```
+  - ```cd thc-hydra-9.3```
   - ```./configure```
   - ```make```
   - ```sudo make install```
+  - [passwordlist.txt](pass\passwordlist.txt.tar.gz)
 
 - Crack me
   - [joke.docx](pass\joke.docx)
   - [joke.pdf](pass\joke.pdf)
 
+<!--
 #### SQL
 - [Insert Employees](sql\insert_script.html)
 
