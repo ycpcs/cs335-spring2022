@@ -45,7 +45,7 @@ This page contains code snippets regularly used in class.
   - ```./configure```
   - ```make```
   - ```sudo make install```
-  - [passwordlist.txt](pass\passwordlist.txt.tar.gz)
+  - [rockyou.txt](pass\rockyou.txt.tar.gz)
 
 - Crack me
   - [joke.docx](pass\joke.docx)
