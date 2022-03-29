@@ -50,6 +50,7 @@ This page contains code snippets regularly used in class.
 - Crack me
   - [joke.docx](pass\joke.docx)
   - [joke.pdf](pass\joke.pdf)
+  - [joke.zip](pass\joke.zip)
 
 <!--
 #### SQL
