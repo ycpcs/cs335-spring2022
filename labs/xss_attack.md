@@ -8,24 +8,12 @@ title: Lab - Cross-Site Scripting Attack
 
 ### Lab Description and Tasks
 
-[XSS Attack Lab.pdf](Web_XSS_Elgg.pdf)
+- Lab Description: [XSS Attack Lab.pdf](xss\Web_XSS_Elgg.pdf)
+- Lab Setup files: [Labsetup.zip](xss\Labsetup.zip)
 
-Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Web/Web_XSS_Elgg/).
+Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/).
 
-- You must provide a screenshot of the network traffic with each attack.
-- *Extra Credit - use a secondary server*:
-  - Attacker VM is hosting the malicious script. Feel free to use the CSRF Attacker site to host it.
-
-  #### Login information
-
-  User | User Name | Password
-  -----|----------|---------
-  Admin | admin | seedelgg
-  Alice | alice | seedalice
-  Boby | boby | seedboby
-  Charlie | charlie | seedcharlie
-  Samy | samy | seedsamy
-
+- You *must* provide a screenshot of the network traffic with each attack.
 
 ### History of Samy's worm
 - [The MySpace Worm that Changed the Internet Forever](https://www.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever)
