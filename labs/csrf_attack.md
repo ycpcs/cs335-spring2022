@@ -16,6 +16,16 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 - Make sure you answer the questions under Task 3.
 - You must provide a screenshot of the network traffic with each attack.
 
+#### Login information
+
+User | User Name | Password
+-----|----------|---------
+Admin | admin | seedelgg
+Alice | alice | seedalice
+Boby | boby | seedboby
+Charlie | charlie | seedcharlie
+Samy | samy | seedsamy
+
 ### References
 
  - [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
