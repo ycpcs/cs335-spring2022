@@ -8,7 +8,7 @@ title: Lab - Cross-Site Request Forgery Attack
 
 ### Lab Description and Tasks
 
-- Lab Description: [CSRF Attack Lab.pdf](scrf\Web_CSRF_Elgg.pdf)
+- Lab Description: [CSRF Attack Lab.pdf](csrf\Web_CSRF_Elgg.pdf)
 - Lab Setup files: [Labsetup.zip](csrf\Labsetup.zip)
 
 Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/).
