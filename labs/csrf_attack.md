@@ -8,28 +8,13 @@ title: Lab - Cross-Site Request Forgery Attack
 
 ### Lab Description and Tasks
 
-[CSRF Attack Lab.pdf](Web_CSRF_Elgg.pdf)
+- Lab Description: [CSRF Attack Lab.pdf](scrf\Web_CSRF_Elgg.pdf)
+- Lab Setup files: [Labsetup.zip](csrf\Labsetup.zip)
 
-Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Web/Web_CSRF_Elgg/).
+Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/).
 
-- Make sure you answer the questions under Task 3
+- Make sure you answer the questions under Task 3.
 - You must provide a screenshot of the network traffic with each attack.
-- *Extra Credit - no localhost*:
-  - Server VM is hosting the web site
-  - Attacker VM is hosting the malicious web site
-  - User and Attacker are both using:
-    - Web site hosted by the server
-    - Malicious web site hosted by the attacker
-
-  #### Login information
-
-  User | User Name | Password
-  -----|----------|---------
-  Admin | admin | seedelgg
-  Alice | alice | seedalice
-  Boby | boby | seedboby
-  Charlie | charlie | seedcharlie
-  Samy | samy | seedsamy
 
 ### References
 
