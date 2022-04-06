@@ -33,6 +33,11 @@ Samy | samy | seedsamy
  - The HTML &lt;form&gt; Element [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
  - [SameSite](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite) Cookies
 
+### Examples
+- https://hackerone.com/reports/127703/
+- https://hackerone.com/reports/157993/
+- https://hackerone.com/reports/111216
+
 ### Grading
 
 Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
