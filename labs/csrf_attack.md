@@ -34,9 +34,9 @@ Samy | samy | seedsamy
  - [SameSite](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite) Cookies
 
 ### Examples
-- https://hackerone.com/reports/127703/
-- https://hackerone.com/reports/157993/
-- https://hackerone.com/reports/111216
+- [https://hackerone.com/reports/127703](https://hackerone.com/reports/127703/)
+- [https://hackerone.com/reports/157993](https://hackerone.com/reports/157993/)
+- [https://hackerone.com/reports/111216](https://hackerone.com/reports/111216)
 
 ### Grading
 
