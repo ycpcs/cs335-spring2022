@@ -24,13 +24,19 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 - Video: [MySpace Worm Animated Story](https://www.youtube.com/watch?v=DtnuaHl378M)
 
 ### References
-
 - [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)  
 - [HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/) Displays the HTTP header. Edit it and send it.  
 - The HTML &lt;form&gt; Element [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 - [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 - [Using XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
 - [Element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML) gets or sets the HTML markup contained within the element.
+
+### Examples
+- https://hackerone.com/reports/106293/
+- https://hackerone.com/reports/104359/
+- https://klikki.fi/yahoo-mail-stored-xss/
+- https://mahmoudsec.blogspot.com/2015/09/how-i-found-xss-vulnerability-in-google.html
+- http://strukt93.blogspot.com/2016/07/united-to-xss-united.html
 
 ### Grading
 
