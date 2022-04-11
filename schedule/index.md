@@ -41,7 +41,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 11 | Apr 05 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10 | [CSRF Attack Lab](../labs/csrf_attack.html)
 > 11 | Apr 07 | Cross-Site Request Forgery | [CSRF Exploitation and Prevention](papers/csrf.pdf) |
 > | | | |
-> 12 | Apr 12 | [Cross-Site Scripting](../slides/11_Web_XSS.pdf) | CIS: Ch 11 | <!--[XSS Attack Lab](../labs/xss_attack.html)>-->
+> 12 | Apr 12 | [Cross-Site Scripting](../slides/11_Web_XSS.pdf) | CIS: Ch 11 | [XSS Attack Lab](../labs/xss_attack.html)
 > 12 | Apr 14 | Cross-Site Scripting cont. | CIS: Ch 11 |
 > | | | |
 > 13 | Apr 19 | [SQL Injection](../slides/12_Web_SQL_Injection.pdf) | CIS: Ch 12 | <!--[SQL Injection Attack Lab](../labs/sql_attack.html)-->
