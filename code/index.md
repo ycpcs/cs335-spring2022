@@ -54,6 +54,7 @@ This page contains code snippets regularly used in class.
 
 #### XSS
   - [Add a friend](xss\add_friend.html)
+  - [Update Profile](xss\edit_profile.html)
 
 <!--
 #### SQL
@@ -61,7 +62,7 @@ This page contains code snippets regularly used in class.
 
 #### XSS
 - [Add a friend](xss\add_friend.html)
-- [Update Profile](xss\edit_profile.html)
+
 - Content Security Policy Experiment
   - [http_server.py](csp\http_server.html)
   - [index.html](csp\index.html)
