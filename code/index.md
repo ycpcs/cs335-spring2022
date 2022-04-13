@@ -52,6 +52,9 @@ This page contains code snippets regularly used in class.
   - [joke.pdf](pass\joke.pdf)
   - [joke.zip](pass\joke.zip)
 
+#### XSS
+  - [Add a friend](xss\add_friend.html)
+
 <!--
 #### SQL
 - [Insert Employees](sql\insert_script.html)
