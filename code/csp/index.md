@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS335
-title: Code - Content Security Policy
+title: Code Snippets - Content Security Policy
 ---
 
 Index Page

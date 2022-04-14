@@ -55,17 +55,14 @@ This page contains code snippets regularly used in class.
 #### XSS
   - [Add a friend](xss\add_friend.html)
   - [Update Profile](xss\edit_profile.html)
+  - Content Security Policy Experiment
+    - [http_server.py](csp\http_server.html)
+    - [index.html](csp\index.html)
+
 
 <!--
 #### SQL
 - [Insert Employees](sql\insert_script.html)
-
-#### XSS
-- [Add a friend](xss\add_friend.html)
-
-- Content Security Policy Experiment
-  - [http_server.py](csp\http_server.html)
-  - [index.html](csp\index.html)
 
 #### CSRF
 - [Template](csrf\post.html) for POST attacks
