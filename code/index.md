@@ -58,11 +58,12 @@ This page contains code snippets regularly used in class.
     - [http_server.py](csp\http_server.html)
     - [index.html](csp\index.html)
 
+#### SQL
+  - [Create Database](sql\create_database.md)
+  - [Create Table](sql\create_table.md)
+  - [Insert Employees](sql\insert_script.html)
 
 <!--
-#### SQL
-- [Insert Employees](sql\insert_script.html)
-
 #### CSRF
 - [Template](csrf\post.html) for POST attacks
 -->
