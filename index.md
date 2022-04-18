@@ -19,13 +19,8 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 
 ## News
 
-<!--
-* **May 06** &mdash; [Public-Key Infrastructure (PKI)](labs/pki.html) Lab Due *
-* **Apr 29** &mdash; [SQL Injection Attack](labs/sql_attack.html) Lab Due
-* **Mar 16** &mdash; [Packet Sniffing and Spoofing](labs/sniff_spoof.html) Lab Due
--->
-
 * **May 06** &mdash; [Final Project](assignments/project.html) Code, Slides, Report Due
+* **Apr 30** &mdash; [SQL Injection Attack](labs/sql_attack.html) Lab Due
 * **Apr 23** &mdash; [Cross-Site Scripting Attack](labs/xss_attack.html) Lab Due
 * **Apr 16** &mdash; [Cross-Site Request Forgery Attack](labs/csrf_attack.html) Lab Due
 * **Apr 14** &mdash; [Final Project](assignments/project.html) Proposal Due

@@ -6,7 +6,6 @@ title: Code Snippets
 
 This page contains code snippets regularly used in class.
 
-
 #### Password
 - Built _John The Ripper_ from source:
   - ```git clone https://github.com/magnumripper/JohnTheRipper.git```

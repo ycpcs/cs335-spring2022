@@ -6,11 +6,13 @@ title: Lab - SQL Injection Lab
 
 # Lab - SQL Injection Attack Lab
 
-### Lab Description and Tasks
+### Lab Des
+cription and Tasks
 
-[Web_SQL_Injection.pdf](Web_SQL_Injection.pdf)
+- Lab Description: [Sniffing & Spoofing.pdf](sqli\Web_SQL_Injection.pdf)
+- Lab Setup Files: [Labsetup.zip](sqli\Labsetup.zip)
 
-Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Web/Web_SQL_Injection/).
+Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/).
 
 [Bobby Tables](https://bobby-tables.com/): A guide to preventing SQL injection
 
