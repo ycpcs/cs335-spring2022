@@ -22,6 +22,10 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
   - ```mysql> select sha1('new_password');```
   - [CyberChef](https://gchq.github.io/CyberChef/) and search for SHA1
 
+### Examples
+- [https://hackerone.com/reports/150156/](https://hackerone.com/reports/150156/)
+- [https://hackerone.com/reports/31756/](https://hackerone.com/reports/31756/)
+
 ### Grading
 
 Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
