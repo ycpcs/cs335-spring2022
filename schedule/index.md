@@ -44,7 +44,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 12 | Apr 12 | [Cross-Site Scripting](../slides/11_Web_XSS.pdf) | CIS: Ch 11 | [XSS Attack Lab](../labs/xss_attack.html)
 > 12 | Apr 14 | Cross-Site Scripting cont. | CIS: Ch 11 |
 > | | | |
-> 13 | Apr 19 | [SQL Injection](../slides/12_Web_SQL_Injection.pdf) | CIS: Ch 12 | <!--[SQL Injection Attack Lab](../labs/sql_attack.html)-->
+> 13 | Apr 19 | [SQL Injection](../slides/12_Web_SQL_Injection.pdf) | CIS: Ch 12 | [SQL Injection Attack Lab](../labs/sql_attack.html)
 > 13 | Apr 21 | SQL Injection, sqlmap | CIS: Ch 12 |
 > | | | |
 > 14 | Apr 26 | Open-Source Intelligence | |
