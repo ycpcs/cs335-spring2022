@@ -118,8 +118,6 @@ Reverse Engineering
 - [OllyDbg](http://www.ollydbg.de/) is a 32-bit assembler level analyzing debugger for Microsoft Windows.
 - [Ghidra](https://ghidra-sre.org/) software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
 
-
-
 Open-Source Intelligence
 ------------------------------------
 - [OSINT Framework](https://osintframework.com/) provides holistic look at resources and techniques.
