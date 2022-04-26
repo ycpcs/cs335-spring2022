@@ -116,6 +116,9 @@ Reverse Engineering
 - [ILSpy](https://github.com/icsharpcode/ILSpy) is the open-source .NET assembly browser and decompiler.
 - [.NET Reflector](https://www.red-gate.com/products/dotnet-development/reflector/) is the original .NET decompiler.
 - [OllyDbg](http://www.ollydbg.de/) is a 32-bit assembler level analyzing debugger for Microsoft Windows.
+- [Ghidra](https://ghidra-sre.org/) software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
+
+
 
 Open-Source Intelligence
 ------------------------------------
