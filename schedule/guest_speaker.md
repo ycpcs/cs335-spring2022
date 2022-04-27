@@ -4,8 +4,13 @@ course_number: CS335
 title: Guest Speaker
 ---
 
-Questions 
+Questions
 ------------------------------------
+- What is their motivation was to pursue their current careers and if they would have done anything different?
+- What is their favorite part of the job?
+- What are some of the cool things they have seen or done in their careers?
+
+#### 2021 Questions  
 - What is most common thread you see on daily basis?
 - The toughest attack you had to face.
 - Some of the JavaScript vulnerabilities you had to deal with.
