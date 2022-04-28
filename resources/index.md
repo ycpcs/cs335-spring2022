@@ -123,6 +123,16 @@ Open-Source Intelligence
 - [OSINT Framework](https://osintframework.com/) provides holistic look at resources and techniques.
 - [https://osintcurio.us/](https://osintcurio.us/).
 - [OSINT framework](https://start.me/p/ZME8nR/osint) by Bruno Mortier.
+- Plane/Vessel tracking
+  - [https://www.adsbexchange.com](https://www.adsbexchange.com)
+  - [https://opensky-network.org](https://opensky-network.org)
+  - [https://flightaware.com](https://flightaware.com)
+  - [http://shipfinder.co](http://shipfinder.co)
+  - [http://www.myshiptracking.com](http://www.myshiptracking.com)
+  - [https://www.marinetraffic.com](https://www.marinetraffic.com)
+  - [https://www.vesselfinder.com](https://www.vesselfinder.com)
+  - [https://www.flightradar24.com](https://www.flightradar24.com)
+  - [https://planefinder.net](https://planefinder.net)
 
 Supplemental Material
 ------------------------------------
