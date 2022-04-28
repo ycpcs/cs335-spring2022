@@ -9,6 +9,7 @@ Questions
 - What is their motivation was to pursue their current careers and if they would have done anything different?
 - What is their favorite part of the job?
 - What are some of the cool things they have seen or done in their careers?
+- What ways/tools do you use to stay up to date with current cyber security best practices and recently discovered vulnerabilities/exploits?
 
 #### 2021 Questions  
 - What is most common thread you see on daily basis?
