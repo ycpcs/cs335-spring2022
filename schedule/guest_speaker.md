@@ -10,6 +10,18 @@ Questions
 - What is their favorite part of the job?
 - What are some of the cool things they have seen or done in their careers?
 - What ways/tools do you use to stay up to date with current cyber security best practices and recently discovered vulnerabilities/exploits?
+- What do you know now that you wish you knew before you started your career?
+- What's a typical work day like?
+- What's the coolest/most interesting thing about your job?
+- What's the worst part about your job?
+- Best practices to protect yourself in...
+  - Everyday life
+  - When developing
+- What advice you would give for someone who wanted to pursue cybersecurity career?
+- Do you plan to stay in this field? Why or why not?
+- Is software ever really secure? It seems that there are always new vulnerabilities and exploits being found over time.
+- How do hackers find their exploits, especially the more obscure ones? It seems difficult to do, especially if you don't have access to the source code.
+- I have seen lots of recent news about the Lapsus$ group. Why have they been so successful with their hacks? Did they discover some new exploit that has allowed them to target all of these large companies?
 
 #### 2021 Questions  
 - What is most common thread you see on daily basis?
