@@ -22,6 +22,9 @@ Questions
 - Is software ever really secure? It seems that there are always new vulnerabilities and exploits being found over time.
 - How do hackers find their exploits, especially the more obscure ones? It seems difficult to do, especially if you don't have access to the source code.
 - I have seen lots of recent news about the Lapsus$ group. Why have they been so successful with their hacks? Did they discover some new exploit that has allowed them to target all of these large companies?
+- What is the attack you see the most, and why does it continue to be the most prevalent attack?
+- Is there an exploit that you know exists, but can't find a way to stop it or prove it exists?
+- Which is harder to deal with and who causes more damage, someone who knows what they are doing, or someone who just copies off the internet?
 
 #### 2021 Questions  
 - What is most common thread you see on daily basis?
