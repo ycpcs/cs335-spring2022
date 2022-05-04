@@ -25,6 +25,7 @@ Questions
 - What is the attack you see the most, and why does it continue to be the most prevalent attack?
 - Is there an exploit that you know exists, but can't find a way to stop it or prove it exists?
 - Which is harder to deal with and who causes more damage, someone who knows what they are doing, or someone who just copies off the internet?
+- In your opinion, what qualities does a good cybersecurity specialist have? What qualities would a poor cybersecurity specialist have?
 
 #### 2021 Questions  
 - What is most common thread you see on daily basis?
