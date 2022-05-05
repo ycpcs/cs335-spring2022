@@ -27,7 +27,7 @@ Questions
 - Which is harder to deal with and who causes more damage, someone who knows what they are doing, or someone who just copies off the internet?
 - In your opinion, what qualities does a good cybersecurity specialist have? What qualities would a poor cybersecurity specialist have?
 - What are the factors that led to your choice to work in your field?
-- What are the ethical considerations (if any) you factored into your decision to work in the proprietary software field? within the open source movement?-
+- What are the ethical considerations (if any) you factored into your decision to work in the proprietary software field? within the open source movement?
 - What advice would you give to any students considering a career within your field?
 - What’s it like working with your team on a day-to-day basis?
 - Do you have any interesting/bizarre stories to tell regarding your work within the cybersecurity industry?
