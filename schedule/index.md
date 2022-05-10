@@ -50,7 +50,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 14 | Apr 26 | Open-Source Intelligence | |
 > 14 | Apr 28 | Quiz 2 | |
 > | | | |
-> 15 | May 03 | Course Wrap Up | Student Project Presentations |
+> 15 | May 03 | Course Wrap Up | Clickjacking Attack |
 > 15 | May 05 | Guest Speaker | Email me your [questions](guest_speaker.md) |
 > | | | |
 > 16 | May 10 | Student Project Presentations
