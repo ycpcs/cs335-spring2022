@@ -66,6 +66,7 @@ Vulnerability Exploitation
 - [nessus](https://www.tenable.com/products/nessus/nessus-essentials) is a proprietary vulnerability scanner developed by Tenable Network Security.
 - [Nikto](https://cirt.net/Nikto2) is an Open Source web server scanner.
 - [OpenVAS](http://www.openvas.org/) is an Open Vulnerability Assessment Scanner.
+- [Gobuster](https://github.com/OJ/gobuster) is a tool used to brute-force URIs including directories and files as well as DNS subdomains.
 
 Network Spoofing
 ------------------------------------
